@@ -1,0 +1,78 @@
+Publication Type
+Authors
+Book Authors
+Group Authors
+Book Group Authors
+Researcher Ids
+ORCIDs
+Book Editors
+Author - Arabic
+Grant Principal Investigator
+Grant Co Principal Investigator
+Article Title
+Article Title - SciELO
+Article Title - SciELO
+Article Title - Chinese
+Article Title - Russian
+Patent Number
+Patent Assignee
+Source Title - Arabic
+Source Title
+Source Title - Korean
+Book Series Title
+Book Series Subtitle
+Volume
+Issue
+Special Issue
+Meeting Abstract
+Start Page
+End Page
+Article Number
+Version
+Version History
+DOI
+Book DOI
+License Name
+License URI
+License Description
+Early Access Date
+Supplement
+Document Type
+Publication Date
+Publication Year
+Abstract
+Abstract - Foreign
+Abstract - English Transliteration
+Abstract - Foreign
+Abstract - Korean
+Conference Title
+Conference Date
+Conference Sponsor
+Conference Location
+Times Cited, WoS Core
+Times Cited, CSCD
+Times Cited, RSCI
+Times Cited, ARCI
+Times Cited, BCI
+Times Cited, SCIELO
+Times Cited, All Databases
+180 Day Usage Count
+Since 2013 Usage Count
+ISSN
+eISSN
+ISBN
+Grant Number
+No of References
+Cited References
+Language
+Advisor
+Committee Member
+Copyright
+Degree Name
+Institution Address
+Institution
+Dissertation and Thesis Subjects
+Author Keywords
+Indexed Date
+UT (Unique ID)
+Pubmed Id
